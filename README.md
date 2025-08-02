@@ -148,19 +148,9 @@
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="mailto:adnansaif7474@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/adnan-saif-80419224a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/adnan-saif">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+- 📧 **Email**: [adnansaif7474@gmail.com](mailto:adnansaif7474@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/adnan-saif-80419224a](https://linkedin.com/in/adnan-saif-80419224a)  
+- 💻 **GitHub**: [github.com/adnan-saif](https://github.com/adnan-saif)
 
 ---
 
