@@ -144,15 +144,15 @@
 </p>
 
 
----
-
 ## 📬 Let's Connect
 
 - 📧 **Email**: [adnansaif7474@gmail.com](mailto:adnansaif7474@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/adnan-saif-80419224a](https://linkedin.com/in/adnan-saif-80419224a)  
 - 💻 **GitHub**: [github.com/adnan-saif](https://github.com/adnan-saif)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
+</p>
 
 > 🚀 *Fueled by logic, driven by curiosity, inspired by data.*
 
