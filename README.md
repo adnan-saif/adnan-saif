@@ -140,7 +140,7 @@
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-saif&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
 </p>
 
 
