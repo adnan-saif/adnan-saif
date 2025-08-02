@@ -35,44 +35,45 @@
   <thead>
     <tr>
       <th>🚀 Project</th>
-      <th>🔗 Link</th>
       <th>🧰 Tech Stack</th>
+      <th>🔗 Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>Advanced Driving Assistance System</b></td>
-      <td><a href="https://github.com/adnan-saif/Advance_Driving_Assistance_System">🔗 View</a></td>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=YOLO&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
       </td>
+      <td><a href="https://github.com/adnan-saif/Advance_Driving_Assistance_System">🔗 View</a></td>
     </tr>
     <tr>
       <td><b>Real-Time Face Attendance System</b></td>
-      <td><a href="https://github.com/adnan-saif/Real_Time_Face_Attendance_System">🔗 View</a></td>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/KNN-FF9900?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
       </td>
+      <td><a href="https://github.com/adnan-saif/Real_Time_Face_Attendance_System">🔗 View</a></td>
     </tr>
     <tr>
       <td><b>Plant Disease Detection System</b></td>
-      <td><a href="https://github.com/adnan-saif/Plant-Disease-Detection">🔗 View</a></td>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
       </td>
+      <td><a href="https://github.com/adnan-saif/Plant-Disease-Detection">🔗 View</a></td>
     </tr>
   </tbody>
 </table>
 
+</p>
 </p>
 
 <p align="center">
