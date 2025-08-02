@@ -80,7 +80,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
 </p>
 
-## 💻 Tech Stack (Unified Mobile App Style Icons)
+## 💻 Tech Stack 
 
 <div align="center">
 
