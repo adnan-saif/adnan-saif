@@ -135,8 +135,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adnan-saif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-saif&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=adnan-saif&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-saif&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
