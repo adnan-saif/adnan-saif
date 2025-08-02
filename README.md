@@ -17,10 +17,10 @@
 
 ## 🙋🏻‍♂️ About Me
 
-🎓 Final-year B.Tech CSE student at Jamia Hamdard, passionate about solving real-world problems through technology
-🤖 Enthusiastic about developing smart, data-driven applications using modern machine learning techniques
-🚀 Skilled in building scalable, end-to-end AI pipelines and deploying interactive, real-time solutions
-🧩 Analytical thinker with a strong foundation in logic and mathematics
+🎓 Final-year B.Tech CSE student at **Jamia Hamdard**, passionate about solving real-world problems through technology  
+🤖 Enthusiastic about developing smart, data-driven applications using modern machine learning techniques  
+🚀 Skilled in building scalable, end-to-end AI pipelines and deploying interactive, real-time solutions  
+🧩 Analytical thinker with a strong foundation in logic and mathematics  
 🌐 Continuously evolving with a growth mindset, driven by curiosity and purpose
 
 <p align="center">
