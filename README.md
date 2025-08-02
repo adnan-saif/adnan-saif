@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Adnan Saif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;AI+Enthusiast+%7C+Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;AI+Enthusiast+%7C+Problem+Solver+%7C+Tech+Explorer;Turning+Data+into+Decisions+%7C+Driven+by+Curiosity" alt="Typing SVG" />
 </p>
-
 
 
 <p align="center">
