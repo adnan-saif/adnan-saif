@@ -16,11 +16,14 @@
 
 ## 🧠 About Me
 
-🎓 Final-year B.Tech CSE student at **Jamia Hamdard** (Top 2 in Branch)  
-⚙️ Focused on AI, machine learning, NLP, and building real-world intelligent systems  
-🚀 Driven by logic, empowered by data, and obsessed with automation
+🎓 Final-year B.Tech CSE student at **Jamia Hamdard**  
+⚙️ Passionate about building intelligent systems with ML, CV, and NLP  
+📦 Builder of end-to-end ML pipelines and real-time AI apps  
+🌐 Logic-first, future-driven, always iterating
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -30,15 +33,98 @@
 | Real-Time Face Attendance System   | [🔗 View](https://github.com/adnan-saif/Real_Time_Face_Attendance_System) |
 | Plant Disease Detection System     | [🔗 View](https://github.com/adnan-saif/Plant-Disease-Detection) |
 
----
-
-## 🧰 Tech Stack (Unified App Icon Style)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,scikit-learn,flask,streamlit,html,css,javascript,jupyter,docker,git,github,mysql,mongodb,sqlite,numpy,pandas,linux,tableau,powerbi,wordpress,excel,seaborn,matplotlib,sci&perline=10&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
 </p>
 
----
+## 💻 Tech Stack (Mobile App Style Icons)
+
+### 🤖 Machine Learning & AI
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br><b>TensorFlow</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br><b>PyTorch</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/><br><b>Keras</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br><b>OpenCV</b></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br><b>Sklearn</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br><b>CNNs</b></td>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Yolo_logo.png" width="40"/><br><b>YOLO</b></td>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Natural_Language_Processing.svg" width="40"/><br><b>NLP</b></td>
+</tr>
+</table>
+</div>
+
+### 📊 Data Analysis & Visualization
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br><b>NumPy</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br><b>Pandas</b></td>
+  <td align="center"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/><br><b>Matplotlib</b></td>
+  <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60"/><br><b>Seaborn</b></td>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40"/><br><b>SciPy</b></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/><br><b>Tableau</b></td>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/><br><b>Excel</b></td>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/><br><b>Power BI</b></td>
+</tr>
+</table>
+</div>
+
+### 🌐 Web & App Development
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br><b>Flask</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/><br><b>Streamlit</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><b>HTML</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br><b>CSS</b></td>
+  <td align="center"><img src="https://img.icons8.com/fluency/48/wordpress.png" width="40"/><br><b>WordPress</b></td>
+</tr>
+</table>
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br><b>Jupyter</b></td>
+  <td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br><b>Colab</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br><b>GitHub</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br><b>Docker</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/><br><b>Kaggle</b></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br><b>Linux</b></td>
+</tr>
+</table>
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><b>MySQL</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br><b>SQLite</b></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br><b>MongoDB</b></td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -63,11 +149,8 @@
 
 ## 📬 Let's Connect
 
-📧 [Email](mailto:adnansaif7474@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/adnan-saif-80419224a)  
-💻 [GitHub](https://github.com/adnan-saif)
+📧 [Email](mailto:adnansaif7474@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/adnan-saif-80419224a) | 💻 [GitHub](https://github.com/adnan-saif)
 
 ---
 
-> 🔍 *Not religious. Futuristic thinker. Obsessed with logic and intelligent systems.*
-
+> 🚀 *Not religious. Built by logic, powered by curiosity, driven by data.*
