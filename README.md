@@ -1,136 +1,104 @@
-<h1 align="center">Hi, I’m Adnan Saif 👋</h1>
+<h1 align="center">Hi, I'm Adnan Saif 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+ML+Architect+%7C+Futurist;Turning+Data+into+Decisions+%7C+Always+Iterating" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+ML+Architect+%7C+Futurist;Turning+Data+into+Decisions+%7C+Always+Iterating" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:adnansaif7474@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/adnan-saif-80419224a"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/adnan-saif"><img src="https://img.shields.io/badge/GitHub-adnan--saif-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-I'm a final-year B.Tech CSE student at **Jamia Hamdard (Top 2 in Branch)**, passionate about building real-time AI & ML systems—spanning CV, NLP, and automation. Driven by data, powered by logic, I aim to deliver impactful, scalable solutions.
+🎓 Final-year B.Tech CSE student at **Jamia Hamdard** — ranked Top 2 in my batch.  
+🚀 Passionate about building end-to-end intelligent systems with ML, DL, and scalable architecture.  
+💡 I believe in the power of automation, data, and AI to change the world.
 
 ---
 
-## 📊 Profile Highlights
+### 🚀 Featured Projects
+
+| Project | 🔗 Link |
+|--------|--------|
+| Advanced Driving Assistance System | [View Project](https://github.com/adnan-saif/Advance_Driving_Assistance_System) |
+| Real-Time Face Attendance System | [View Project](https://github.com/adnan-saif/Real_Time_Face_Attendance_System) |
+| Plant Disease Detection System | [View Project](https://github.com/adnan-saif/Plant-Disease-Detection) |
+
+---
+
+### 📱 Tech Stack (Mobile Icon Grid Style)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adnan-saif&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,scikit-learn,flask,streamlit,html,css,js,jupyter,docker,git,mysql,mongodb,sqlite,numpy,pandas,linux&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Graphs
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adnan-saif&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-saif&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnan-saif&theme=matrix&no-frame=true&row=1&column=6"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-saif&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=adnan-saif&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-saif&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adnan-saif&theme=gruvbox&margin-w=15&no-frame=true&row=1&column=6"/>
 </p>
+
+---
+
+### 📊 Contribution Graph
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-saif&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-saif&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 💼 Featured Projects
+### 🎓 Certifications
 
-| # | Project | 🔗 |
-|--|---------|----|
-| 1 | Advanced Driving Assistance System | [View Project](https://github.com/adnan-saif/Advance_Driving_Assistance_System) |
-| 2 | Real-Time Face Attendance System | [View Project](https://github.com/adnan-saif/Real_Time_Face_Attendance_System) |
-| 3 | Plant Disease Detection System | [View Project](https://github.com/adnan-saif/Plant-Disease-Detection) |
-
----
-
-## 📱 Tech Stack (App‑Style Icons)
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><b>Python</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br><b>TensorFlow</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/><br><b>Keras</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/><br><b>OpenCV</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/><br><b>PyTorch</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50"/><br><b>Scikit‑learn</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br><b>Flask</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/><br><b>Streamlit</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><b>HTML5</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><b>CSS3</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br><b>Docker</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><b>Git</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><b>MySQL</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br><b>MongoDB</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/><br><b>Jupyter</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br><b>NumPy</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br><b>Pandas</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br><b>Linux</b>
-    </td>
-    <td></td>
-  </tr>
-</table>
+- Supervised Machine Learning — **DeepLearning.AI**
+- Python for Data Science — **IBM**
+- NLP with TensorFlow — **DeepLearning.AI**
+- Data Analysis with Python — **IBM**
+- Machine Learning with Python — **IBM**
+- Google Python Course — **Google**
 
 ---
 
-## 🔭 Currently Exploring
+### ⏱️ Time Spent Coding (Last 7 Days)
 
-- LLMs + Retrieval-Augmented Generation (RAG)  
-- Docker-powered MLOps and CI/CD  
-- AI Agent Orchestration Frameworks  
-- Real-time Dashboards with Streamlit  
-- Cloud Deployments (AWS/GCP/Hugging Face)
+<!-- Wakatime badge (optional) -->
+<!-- Replace with your username if using Wakatime -->
+<!-- <img src="https://wakatime.com/badge/user/YOUR_ID.svg" alt="Wakatime"> -->
 
 ---
 
-## 📬 Contact Me
+### 📬 Contact Me
 
-- 📧 [adnansaif7474@gmail.com](mailto:adnansaif7474@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/adnan-saif-80419224a)  
-- 💻 [GitHub](https://github.com/adnan-saif)
+📧 [Email](mailto:adnansaif7474@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/adnan-saif-80419224a)  
+💻 [GitHub](https://github.com/adnan-saif)
 
 ---
 
-> 🚀 *Driven by logic. Empowered by data. Architecting systems that think.*
+### 💬 Fun Fact
+
+> 🔭 I'm not religious — I think like a futurist, build like an engineer, and believe in the logic of data.
+
+---
+
+> 🧠 *"Machine Learning is not just tech — it's a new way of thinking about the world."*
+
