@@ -143,23 +143,26 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-saif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnan-saif&theme=matrix&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
 ## 📬 Let's Connect
 
-📧 [Email](mailto:adnansaif7474@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/adnan-saif-80419224a) | 💻 [GitHub](https://github.com/adnan-saif)
+<p align="center">
+  <a href="mailto:adnansaif7474@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/adnan-saif-80419224a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/adnan-saif">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-> 🚀 *Not religious. Built by logic, powered by curiosity, driven by data.*
+> 🚀 *Fueled by logic, driven by curiosity, inspired by data.*
 
-
-yolo, npl, tableau , m,atplotlib icon not avalible and alligned with properly and dont change style
