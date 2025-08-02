@@ -15,12 +15,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
 </p>
 
-## 🧠 About Me
+## 🙋🏻‍♂️ About Me
 
-🎓 Final-year B.Tech CSE student at **Jamia Hamdard**  
-⚙️ Passionate about building intelligent systems with ML, CV, and NLP  
-📦 Builder of end-to-end ML pipelines and real-time AI apps  
-🌐 Logic-first, future-driven, always iterating
+🎓 Final-year B.Tech CSE student at Jamia Hamdard, passionate about solving real-world problems through technology
+🤖 Enthusiastic about developing smart, data-driven applications using modern machine learning techniques
+🚀 Skilled in building scalable, end-to-end AI pipelines and deploying interactive, real-time solutions
+🧩 Analytical thinker with a strong foundation in logic and mathematics
+🌐 Continuously evolving with a growth mindset, driven by curiosity and purpose
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0FF0FC&height=2&section=footer"/>
